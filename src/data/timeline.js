@@ -1,6 +1,13 @@
 export default[
     {
         year: 'Today',
+        title: 'Consultant',
+        duration: '3 months',
+        details: 
+            "I am currently working as a consultant at Compose IT out of their offices in Örebro, Sweden. My work is mostly based around developing software in the ITSM space.",
+    },
+    {
+        year: '2023',
         title: 'Engineering Student',
         duration: '4 years',
         details: 
@@ -19,12 +26,5 @@ export default[
         duration: '3 years',
         details: 
             'I took the baccalaureate with an M average in the 6 subjects I wrote in it.',
-    },
-    {
-        year: '2018 & 2019',
-        title: 'Summer worker at Björkback Gård',
-        duration: '3 months x 2',
-        details: 
-            'This was a versatile agricultural job where I was doing everything from construction work, animal husbandry to forest clearing.',
     },
 ]
